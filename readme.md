@@ -1,6 +1,6 @@
-# MEDICINE VENDING MACHINE BY FINGERPRINT
+# Medicine Vending Machine by Fingerprint
 
-## PERFERENCE.
+## Preferene
 
 * Arduino MEGA 2560
 * Push-Pull solenoid
