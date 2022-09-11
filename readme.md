@@ -7,6 +7,7 @@
 * TIP120 Transistor
 * 4CH RELAY 
 * I2C LCD 16x2 4PIN
+* etc..
 
 ## Instructions
 
