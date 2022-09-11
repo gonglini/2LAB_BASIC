@@ -1,9 +1,6 @@
 #include <Adafruit_Fingerprint.h>
 
-
-
 SoftwareSerial mySerial(2, 3);
-
 
 Adafruit_Fingerprint finger = Adafruit_Fingerprint(&mySerial);
 
