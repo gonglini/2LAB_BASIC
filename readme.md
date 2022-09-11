@@ -2,12 +2,12 @@
 
 ## PERFERENCE.
 
-* ARDUINO MEGA 2560
+* Arduino MEGA 2560
 * Push-Pull solenoid
 * TIP120 Transistor
 * 4CH RELAY 
 * I2C LCD 16x2 4PIN
 
-## caution
+## Caution
 
 you should import my libraries in your Arduino library folder
